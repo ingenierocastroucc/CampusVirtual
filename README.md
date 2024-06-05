@@ -1,6 +1,6 @@
-# doncamarongitplatzi
-Contiene el codigo utilizado para el curso de git en platzi[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> Esta version inicial de la pagina web de DonCamaron sera la base para todo el desarrollo completo del proyecto.
+# CampusVirtual
+Contiene el codigo utilizado para el proyecto de campus virtual
+> Esta version inicial de la aplicacion web del CampusVirtual sera la base para todo el desarrollo completo del proyecto.
 > - developer
 
 ## En este repo podras encontrar contenido C#,Html,CSS,Git y .Net
