@@ -21,29 +21,29 @@ body
 
 #contenedor #logocampus
 {
-    width: 20px;
-    vertical-align: middle;
+    width: 25px;
+    vertical-align: sub;
 }
 
-#contenedor #tagline
+#contenedor #menu
 {
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
+    display: flex;
+    justify-content: space-around;
 }
 
 #container
 {
-    width: 70%;
+    width: 90%;
     padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    height: 90%;
 }
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 45px;
 }
 #post
 {
@@ -61,4 +61,20 @@ body
     color: white;
     text-align: left;
     padding: 0.2em;
+}
+#buscar
+{
+    text-align: center;
+    font-family: Arial;
+}
+#items
+{
+    display: flex;
+    background: rgb(192, 192, 192);
+    width: 99%;
+    height: 8%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.5rem 0.5rem;
+    color: white;
 }
