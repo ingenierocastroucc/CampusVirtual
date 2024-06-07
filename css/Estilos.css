@@ -57,12 +57,27 @@ body
 #post #estudiante
 {
     width: 300px;
-    vertical-align: middle;
+    border-radius: 20px;
 }
 #post #asignaturas
 {
     position: relative;
     top: 10px;
+}
+#post #seccionnovedades
+{
+    display: flex;
+    justify-content: left;
+    background-color: rgb(192, 192, 192);
+    width: 50%;
+    height: 50%;
+}
+#post #seccionnovedades #novedades
+{
+    width: 50%;
+    height: 50%;
+    background: rgb(192, 192, 192);
+    border-radius: 20px;
 }
 #footer
 {
@@ -86,4 +101,19 @@ body
     align-items: center;
     padding: 0.5rem 0.5rem;
     color: white;
+}
+#itemsnovedades
+{
+    display: flex;
+    background: rgb(192, 192, 192);
+    width: 50%;
+    height: 195px;
+    justify-content: right;
+    padding: 0.5rem 0.5rem;
+    color: white;
+    border-radius: 20px;
+    display: inline-block;
+    vertical-align: top;
+    position: absolute;
+    right: 200px;
 }
