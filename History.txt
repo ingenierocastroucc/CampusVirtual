@@ -7,3 +7,5 @@ Se modifica archivo history para dar a conocer de mejor manera, los cambios ejec
 | `Header`         | Contiene el diseño de la cabecera inicial del proyecto.|
 | `Body`           | Contiene el body inicial del proyecto                  |
 | `Footer`         | Contiene el body inicial del proyecto                  |
+| `Diseño CSS`     | Se agrega diseño CSS inicial                           |
+| `Readme`         | Se agrega Readme del proyecto                          |
