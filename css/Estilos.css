@@ -18,6 +18,9 @@ body
     margin: 0;
     padding: 0.5em;
     border-bottom: 5px solid  rgb(192, 192, 192);
+    position: fixed;
+    top: 0;
+    width: 89%;
 }
 
 #contenedor #logocampus
@@ -56,6 +59,11 @@ body
     width: 300px;
     vertical-align: middle;
 }
+#post #asignaturas
+{
+    position: relative;
+    top: 10px;
+}
 #footer
 {
     background:rgb(0, 128, 0);
@@ -73,7 +81,7 @@ body
     display: flex;
     background: rgb(192, 192, 192);
     width: 99%;
-    height: 8%;
+    height: 45px;
     justify-content: space-around;
     align-items: center;
     padding: 0.5rem 0.5rem;
